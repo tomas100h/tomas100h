@@ -22,7 +22,7 @@ Hello! My name is Tomás Ceballos, I live in Santiago de Chile and I am currentl
 <br>
 
 - 🙌 When I see data, I am always excited to learn their secrets and insights. That's why I decided to specialise as a data scientist.  
-- 🎮 My hobbies are video games, board games and currently I've been playing a lot of paddle tennis with my friends. 
+- 🎮 My hobbies are video games, board games and currently I've been playing a lot of padel with my friends. 
 
 
 
